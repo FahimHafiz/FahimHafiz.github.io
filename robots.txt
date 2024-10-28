@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fahimhafiz.github.io/sitemap.xml
+Sitemap: https://FahimHafiz.github.io/sitemap.xml
