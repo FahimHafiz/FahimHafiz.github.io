@@ -10,6 +10,7 @@
       {% if content.links %}
         <td class="p-1 pl-2 font-weight-light text">
           <div class="container-pdf">
+          {% comment %}
             {% for item in content.links %}
               {% if item.link %}
                 <div class="container-link-button">
@@ -21,6 +22,7 @@
                 </div>
               {% endif %}
             {% endfor %}
+            {% endcomment %}
           </div>
         </td>
       {% endif %}
