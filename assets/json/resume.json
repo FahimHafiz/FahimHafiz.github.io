@@ -1,12 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Fahim Hafiz",
+    "label": "Lecturer, CSE",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "fahimhafiz@.cse.uiu.ac.bd or fahimeee2015@gmail.com",
+    "url": "https://fahimhafiz.github.io/",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
