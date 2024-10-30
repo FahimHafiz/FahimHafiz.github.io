@@ -16,6 +16,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Interested in computer vision, AI, bioinformatics and HCI.
 
 I am currently working as a Lecturer at the <a href="https://cse.uiu.ac.bd">Department of CSE, United International University, Bangladesh</a>. My research interests are computer vision, AI, bioinformatics and HCI.
 
