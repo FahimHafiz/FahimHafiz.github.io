@@ -30,11 +30,14 @@ The judging panel included distinguished guests, featuring representatives from 
   - Dr. ABM Alim Al Islam, Professor at BUET  
   - Prof. Dr. Md. Golam Rabiul Alam, from BRAC University
 
+![Prof. Dr. Md. Golam Rabiul Alam is received by me and the volunteer students!](assests/img/cseps24_1.jpg)
+
 - **EEE Judges:**  
   - Md. Mizanur Rahman, Assistant Engineer (Implementation) at SCUBE Technologies Ltd.  
   - Sifat-Ul-Alam, Sr. Assistant Director at Walton High Tech Industries PLC  
 
-<!-- ![Judges Panel](images/judges_panel.jpg) -->
+![Judges evaluating the projects](assests/img/cseps24_2.jpg)
+
 
 ### Event Highlights
 
@@ -44,5 +47,5 @@ The Summer 2024 Project Show highlighted UIU's commitment to fostering innovatio
 
 Both the CSE and EEE departments thanked **Mr. Shoib Ahmed**, **Mr. Zubair Ahmed**, **Mr. Fahim Hafiz**, **Mr. Haider Ali**, and **S.M. Monzurul Hoque Chowdhury** for their invaluable coordination in making the event a success.
 
-<!-- ![Prize Ceremony](images/prize_ceremony.jpg) -->
+![Prize Giving Ceremony](assests/img/cseps24_3.jpg)
 
