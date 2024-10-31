@@ -6,12 +6,6 @@ nav: true
 nav_order: 6
 ---
 
-# Teaching
-
-This page provides information about current and past courses, including schedules, course materials, and ways to reach out for collaboration or counseling.
-
----
-
 ## 1. Current Semester Courses, Class Schedules, and Counseling Hours
 
 ### Course I am taking in this trimester (Fall-24)
