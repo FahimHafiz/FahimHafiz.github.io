@@ -24,37 +24,51 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "BADHAN",
+      "location": "Bangladesh",
+      "position": "Vice President of the Nazrul Islam Hall, BUET",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "BADHAN is a voluntary blood donors’ organization expanded among the Graduate and Post-Graduate level educational institution of Bangladesh."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "United International University",
+      "department": "Department of CSE",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.uiu.ac.bd/",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "startDate": "2023",
+      "endDate": "2025"
+    },
+    {
+      "institution": "Bangladesh University of Engineering and Technology(BUET)",
+      "department":"Department of EEE",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.buet.ac.bd/",
+      "area": "Electrical and Electronic Engineering",
+      "studyType": "BSc",
+      "startDate": "2016",
+      "endDate": "2021"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "1st Runner Up in MATLAB Competition",
+      "date": "2018",
+      "awarder": "Bangladesh University of Engineering and Technology(BUET)",
+      "summary": "EEE Day-2018 arranged a Inter-university MATLAB compeition where I became 1st Runner Up."
+    },
+    {
+      "title": "Deans List",
+      "date": ["2017", "2018", "2019"],
+      "awarder": "Bangladesh University of Engineering and Technology(BUET)",
+      "summary": "Consecutive CGPA above 3.75 gets Deans List award."
     }
+
   ],
   "certificates": [
     {
@@ -140,7 +154,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Bengali",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -150,30 +164,9 @@
       "icon": ""
     }
   ],
-  "interests": [
+  "Research Interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": ["Computer Vision", "IoT", "Machine Learning", "HCI", "Bioinformatics", "Data Science"]
     }
   ],
   "projects": [
