@@ -8,12 +8,6 @@ permalink: https://www.facebook.com/uiucseps/
 
 Hectic yet had an amazing experience while organising the project show, <a href="https://www.facebook.com/uiucseps/">"Project show, UIU"</a>. I was one of the main organiser on behalf of the CSE Department, UIU along with <a href="https://cse.uiu.ac.bd/faculty/muzahid/">"Prof. Dr. A.K.M. Muzahidul Islam"</a> and <a href="https://cse.uiu.ac.bd/faculty/shoib/">"Lecturer Shoib Ahmed"</a>. The details of the project show is summarised here:
 
----
-layout: post
-title: "UIU Summer 2024’s Project Show: A Collaborative Showcase of Innovation from CSE and EEE Students!"
-date: 2024-10-07
----
-
 ## UIU Summer 2024’s Project Show  
 **A Collaborative Showcase of Innovation from CSE and EEE Students!**
 
