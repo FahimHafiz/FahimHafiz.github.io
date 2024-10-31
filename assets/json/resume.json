@@ -6,33 +6,6 @@
     "email": "fahimhafiz@.cse.uiu.ac.bd",
     "url": "https://fahimhafiz.github.io/"
   },
-  "work": [
-    {
-      "name": "Department of CSE, United International University(UIU), Dhaka, Bangladesh",
-      "position": "Lecturer",
-      "url": "https://www.uiu.ac.bd/",
-      "startDate": "2022",
-      "endDate": ""
-    },
-    {
-      "name": "Department of EECE, Military Institute of Science and Technology(MIST), Dhaka, Bangladesh",
-      "position": "Lecturer",
-      "url": "https://mist.ac.bd/",
-      "startDate": "2021",
-      "endDate": "2022"
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "BADHAN",
-      "location": "Bangladesh",
-      "position": "Vice President of the Nazrul Islam Hall, BUET",
-      "url": "https://example.com",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "BADHAN is a voluntary blood donors’ organization expanded among the Graduate and Post-Graduate level educational institution of Bangladesh."
-    }
-  ],
   "education": [
     {
       "institution": "United International University",
@@ -55,7 +28,65 @@
       "endDate": "2021"
     }
   ],
-  "awards": [
+  "work": [
+    {
+      "name": "Department of CSE, United International University(UIU), Dhaka, Bangladesh",
+      "position": "Lecturer",
+      "url": "https://www.uiu.ac.bd/",
+      "startDate": "2022",
+      "endDate": ""
+    },
+    {
+      "name": "Department of ECE, North South University(NSU), Dhaka, Bangladesh",
+      "position": "Research Assistant",
+      "url": "https://www.northsouth.edu/",
+      "startDate": "2022",
+      "endDate": ""
+    },
+    {
+      "name": "Department of EECE, Military Institute of Science and Technology(MIST), Dhaka, Bangladesh",
+      "position": "Lecturer",
+      "url": "https://mist.ac.bd/",
+      "startDate": "2021",
+      "endDate": "2022"
+    }
+  ],
+  "Extracurricular Activities": [
+    {
+      "organization": "UIU Robotics Club",
+      "location": "Bangladesh",
+      "position": "Moderator",
+      "url": "https://robotics.uiu.ac.bd/",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "Currently overseeing the responsibilities of UIU Robotics Club"
+    },
+    {
+      "organization": "Department of CSE, UIU",
+      "location": "Bangladesh",
+      "position": "Project Show Organiser",
+      
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "Organizing ’CSE Project Show’ in each trimester at UIU where 1000+ students participate in different lab courses such as: Microprocessors and Microcontrollers Lab, Electronics Lab, AOOP, DBMS, Software Engineering Lab, etc."
+    },
+    {
+      "organization": "BADHAN",
+      "location": "Bangladesh",
+      "position": "Vice President of the Nazrul Islam Hall, BUET",
+      "url": "https://www.badhan.org/",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "BADHAN is a voluntary blood donors’ organization expanded among the Graduate and Post-Graduate level educational institution of Bangladesh."
+    }
+  ],
+  "awards and certificates": [
+    {
+      "title": "AI in Public Health Workshop",
+      "date": "2024",
+      "awarder": "Child Health Research Foundation, Bangladesh",
+      "summary": "Workshop on time series forecasting using Deep Learning Methods."
+    },
     {
       "title": "1st Runner Up in MATLAB Competition",
       "date": "2019",
@@ -63,78 +94,27 @@
       "summary": "EEE Day-2019 arranged a Inter-university MATLAB compeition where I became 1st Runner Up."
     },
     {
-      "title": "Deans List",
-      "date": "2018, 2019, 2020",
+      "title": "Dean's List",
+      "date": "2017, 2018, 2019, 2020, 2021",
       "awarder": "Bangladesh University of Engineering and Technology(BUET)",
       "summary": "Consecutive CGPA above 3.75 gets Deans List award."
     }
 
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "MosquitoFusion: A Multiclass Dataset for Real-Time Detection of Mosquitoes, Swarms, and Breeding Sites Using Deep Learning.",
+      "publisher": "ICLR-24",
+      "releaseDate": "2024",
+      "url": "https://arxiv.org/pdf/2404.01501",
+      "summary": "In this paper, we present an integrated approach to real-time mosquito detection using our multiclass dataset (MosquitoFusion) containing 1204 diverse images and leverage cutting-edge technologies, specifically computer vision, to automate the identification of Mosquitoes, Swarms, and Breeding Sites. The pre-trained YOLOv8 model, trained on this dataset, achieved a mean Average Precision (mAP@50) of 57.1%, with precision at 73.4% and recall at 50.5%. The integration of Geographic Information Systems (GIS) further enriches the depth of our analysis, providing valuable insights into spatial patterns. "
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "ENRNN-AU-Net: A Hybrid Deep Learning Model to Classify and Segment Histopathology Images of Breast Cancer",
+      "publisher": "IEEE",
+      "releaseDate": "2024",
+      "url": "10.1109/iCACCESS61735.2024.10499623",
+      "summary": "Breast cancer is a complicated and diverse ailment that requires thorough understanding at the cellular level to provide more accurate diagnoses and customized treatments. This work explores the categorization and division of breast cancer cells using imaging technology, computational algorithms, and histopathology examination. The classification result was derived by building a hybrid model that combined RNN and EfficientNetV2S with an accuracy of 99.99%, the model demonstrated promising improvement over the baseline, even though it acknowledged the influence of sparse data on outcomes. On the other hand, the segmentation result was derived by modifying the pre-trained model “U-Net” with an attention mechanism where the model was also able to achieve a significant accuracy of 99.54%.To achieve an understanding of the many subtleties of breast cancer, this study emphasizes the significance of classifying and segmenting cells at the individual cell level. It is possible to achieve a thorough understanding by using deep learning and machine learning models on image data."
     }
   ],
   "languages": [
@@ -156,12 +136,11 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Designing Microprocessor Lab and Network Lab Project Manual using Raspberry Pi (ongoing)",
+      "summary": "We are working on building a repository which any student can follow to implement complex engineering problems utilizing Microcontrollers, sensors as well as build IoT based Systems. You can see the detailed implementation strategy once our paper regarding this project is published online which is under review now.",
+      "startDate": "2023",
+      "endDate": "",
+      "url": "https://docs.google.com/document/d/1Yikhq6t8Z1vf5S9fGLZNfprAflVTXtTD-OHA3s7RRAU/edit?usp=sharing"
     }
   ]
 }
