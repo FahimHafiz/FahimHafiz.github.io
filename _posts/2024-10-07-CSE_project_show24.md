@@ -43,7 +43,6 @@ The judging panel included distinguished guests, featuring representatives from 
 <figcaption style="text-align: center;">Honorable Judges evaluating the projects</figcaption>
 
 ### Event Highlights
-
 The Summer 2024 Project Show highlighted UIU's commitment to fostering innovation, enhancing skills, and bridging the gap between academia and industry. **Prof. Dr. Md. Abul Kashem Mia**, Vice Chancellor of UIU, commended the participants and winners for their remarkable contributions, expressing hopes for their continued success. The prize-giving ceremony was also graced with the presence of esteemed faculty members, including **Dr. Raqibul Mostofa**, **Dr. Mohammad Nurul Huda**, **Dr. AKM Muzahidul Islam**, **Dr. Md. Iqbal Bahar Chowdhury**, **Dr. Sadid Muneer**, and **Dr. Riasat Azim**.
 
 ### Acknowledgments
