@@ -29,6 +29,8 @@ nav_order: 6
 | EEE 2113    | Electrical Circuits         |
 | CSE 4325    | Microprocessors and Microcontrollers|
 | CSE 4326    | Microprocessors and Microcontrollers Lab|
+| -    | Electrical Measurement, Instrumentation and Sensors Lab, Fundamental of Electrical Engineering Lab, Electrical Drives and Instrumentation Laboratory, Electronic Devices and Circuit Sessional|
+
 
 ---
 
