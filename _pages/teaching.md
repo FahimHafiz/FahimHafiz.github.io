@@ -17,7 +17,7 @@ nav_order: 6
 
 - **Class Timetable**: [Link to timetable](https://drive.google.com/file/d/1l462mMSAXW9FpthHNGoJADM6qty8avZy/view?usp=sharing) <!-- Replace with your actual link -->
 - **Counseling Hours**: [Link to counseling hours](https://drive.google.com/file/d/1l462mMSAXW9FpthHNGoJADM6qty8avZy/view?usp=sharing) <!-- Replace with your actual link -->
-
+- **UIU Profile**: [FahimHafiz-UIU](https://cse.uiu.ac.bd/faculty/hafiz-fahim/)
 
 ---
 
