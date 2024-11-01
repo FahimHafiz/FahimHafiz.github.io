@@ -12,7 +12,19 @@ profile:
     # <p>United City</p>
     # <p>Dhaka, Bangladesh</p>
   more_info: >
-    <p>Hi there, fellow scholar!</p>
+    <p style="display: inline-block; white-space: nowrap; overflow: hidden; animation: scroll-left 10s linear infinite;">
+      Hi there, fellow scholar!
+    </p>
+    <style>
+      @keyframes scroll-right {
+        0% {
+          transform: translateX(100%);
+        }
+        100% {
+          transform: translateX(-100%);
+        }
+      }
+    </style>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
