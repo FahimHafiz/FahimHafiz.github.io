@@ -11,6 +11,8 @@ profile:
   # more_info: >
     # <p>United City</p>
     # <p>Dhaka, Bangladesh</p>
+  more_info: >
+    <p>Hi there, fellow scholar!</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
