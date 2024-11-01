@@ -49,6 +49,7 @@ The Summer 2024 Project Show highlighted UIU's commitment to fostering innovatio
 
 Both the CSE and EEE departments thanked **Mr. Shoib Ahmed**, **Mr. Zubair Ahmed**, **Mr. Fahim Hafiz**, **Mr. Haider Ali**, and **S.M. Monzurul Hoque Chowdhury** for their invaluable coordination in making the event a success.
 
-![Prize Giving Ceremony](https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_3.jpg?raw=true)
+<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_3.jpg?raw=true" alt="Prize Giving Ceremony" width="300">
 <br>
 <figcaption style="text-align: center;">Prize Giving Ceremony of the Project Show-Summer 24</figcaption>
+
