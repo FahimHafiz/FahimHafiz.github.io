@@ -30,7 +30,8 @@ The judging panel included distinguished guests, featuring representatives from 
   - Dr. ABM Alim Al Islam, Professor at BUET  
   - Prof. Dr. Md. Golam Rabiul Alam, from BRAC University
 
-![Prof. Dr. Md. Golam Rabiul Alam is received by me and the volunteer students!](https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_1.jpg?raw=true)
+<!-- ![Prof. Dr. Md. Golam Rabiul Alam is received by me and the volunteer students!](https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_1.jpg?raw=true) -->
+![Prof. Dr. Md. Golam Rabiul Alam is received by me and the volunteer students!](../assets/img/cseps24_1.jpg)
 <br>
 <figcaption style="text-align: center;">Prof. Dr. Md. Golam Rabiul Alam is received by me and the volunteer students!</figcaption>
 
