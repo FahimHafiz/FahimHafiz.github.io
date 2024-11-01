@@ -15,8 +15,8 @@ nav_order: 6
 | CSE 1326    | Digital Logic Design Lab    |
 | EEE 2113    | Electrical Circuits         |
 
-- **Class Timetable**: [Link to timetable](#) <!-- Replace with your actual link -->
-- **Counseling Hours**: [Link to counseling hours](#) <!-- Replace with your actual link -->
+- **Class Timetable**: [Link to timetable](https://drive.google.com/file/d/1l462mMSAXW9FpthHNGoJADM6qty8avZy/view?usp=sharing) <!-- Replace with your actual link -->
+- **Counseling Hours**: [Link to counseling hours](https://drive.google.com/file/d/1l462mMSAXW9FpthHNGoJADM6qty8avZy/view?usp=sharing) <!-- Replace with your actual link -->
 
 
 ---
