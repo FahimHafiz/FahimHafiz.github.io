@@ -30,7 +30,7 @@ The judging panel included distinguished guests, featuring representatives from 
   - Dr. ABM Alim Al Islam, Professor at BUET  
   - Prof. Dr. Md. Golam Rabiul Alam, from BRAC University
 
-![Prof. Dr. Md. Golam Rabiul Alam is received by me and the volunteer students!](https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_1.jpg?raw=true)
+<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_1.jpg?raw=true" alt="Prof. Dr. Md. Golam Rabiul Alam is received by me and the volunteer students!" width="600">
 <br>
 <figcaption style="text-align: center;">Prof. Dr. Md. Golam Rabiul Alam is received by me and the volunteer students!</figcaption>
 
@@ -38,7 +38,7 @@ The judging panel included distinguished guests, featuring representatives from 
   - Md. Mizanur Rahman, Assistant Engineer (Implementation) at SCUBE Technologies Ltd.  
   - Sifat-Ul-Alam, Sr. Assistant Director at Walton High Tech Industries PLC  
 
-![Honorable Judges evaluating the projects](https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_2.jpg?raw=true)
+<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_2.jpg?raw=true" alt="Honorable Judges evaluating the projects" width="600">
 <br>
 <figcaption style="text-align: center;">Honorable Judges evaluating the projects</figcaption>
 
@@ -49,7 +49,7 @@ The Summer 2024 Project Show highlighted UIU's commitment to fostering innovatio
 
 Both the CSE and EEE departments thanked **Mr. Shoib Ahmed**, **Mr. Zubair Ahmed**, **Mr. Fahim Hafiz**, **Mr. Haider Ali**, and **S.M. Monzurul Hoque Chowdhury** for their invaluable coordination in making the event a success.
 
-<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_3.jpg?raw=true" alt="Prize Giving Ceremony" width="300">
+<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_3.jpg?raw=true" alt="Prize Giving Ceremony" width="600">
 <br>
 <figcaption style="text-align: center;">Prize Giving Ceremony of the Project Show-Summer 24</figcaption>
 
