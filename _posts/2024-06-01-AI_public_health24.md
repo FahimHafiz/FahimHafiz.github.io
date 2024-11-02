@@ -20,9 +20,9 @@ Here is a session on utilizing AI in Public health by Mr. Sudipta Saha..
 
 Here are some moments from this wonderful workshop!
  
- <img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/chrf24_3.jpeg?raw=true" alt="Selfie with the friends/participants from this workshop where we met for the first time!" width="900">
+ <img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/chrf24_3.jpeg?raw=true" alt="Memorable moments with the friends/participants from this workshop where we met for the first time!" width="900">
 <br>
-<figcaption style="text-align: center;">Selfie with the friends/participants from this workshop where we met for the first time!</figcaption>
+<figcaption style="text-align: center;">Memorable moments with the friends/participants from this workshop where we met for the first time!</figcaption>
 
  <img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/chrf24_4.jpeg?raw=true" alt="Receiving the workshop certificate from Dr. Senjuti Saha and Dr. Yogesh Hooda!" width="900">
 <br>
