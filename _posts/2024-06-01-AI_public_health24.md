@@ -18,9 +18,20 @@ Here is a session on utilizing AI in Public health by Mr. Sudipta Saha..
 <br>
 <figcaption style="text-align: center;">AI in Public Health Session taken by Mr. Sudipta Saha!</figcaption>
 
+Here are some moments from this wonderful workshop!
+ 
+ <img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/chrf24_3.jpeg?raw=true" alt="Selfie with the friends/participants from this workshop where we met for the first time!" width="900">
+<br>
+<figcaption style="text-align: center;">Selfie with the friends/participants from this workshop where we met for the first time!</figcaption>
+
+ <img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/chrf24_4.jpeg?raw=true" alt="Receiving the workshop certificate from Dr. Senjuti Saha and Dr. Yogesh Hooda!" width="900">
+<br>
+<figcaption style="text-align: center;">Receiving the workshop certificate from Dr. Senjuti Saha and Dr. Yogesh Hooda!</figcaption>
+
+
 Here is the group photo with the amazing CHRF team on the last day of our workshop!
 <img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/chrf24_2.jpeg?raw=true" alt="Group photo with the amazing CHRF team" width="900">
 <br>
 <figcaption style="text-align: center;">Group photo with the amazing CHRF team</figcaption>
 
-I intend to write the more technical learnings from this workshop in series, specially the Machine Learning examples. Please keep an eye on my GitHub profile. Here is already the first series of learning from this workshop: <a href="https://github.com/FahimHafiz/Vaccination-Dataset-Preprocessing-Analysis-and-Prediction-Using-Machine-Learning">"Vaccination Dataset Preprocessing Analysis and Prediction Using Machine Learning"</a>
+I intend to write the more technical learnings from this workshop in a series of lectures, specially the Machine Learning examples. Please keep an eye on my GitHub profile. Here is already the first series of my learning from this workshop: <a href="https://github.com/FahimHafiz/Vaccination-Dataset-Preprocessing-Analysis-and-Prediction-Using-Machine-Learning">"Vaccination Dataset Preprocessing Analysis and Prediction Using Machine Learning"</a>

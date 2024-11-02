@@ -29,7 +29,8 @@ nav_order: 6
 | EEE 2113    | Electrical Circuits         |
 | CSE 4325    | Microprocessors and Microcontrollers|
 | CSE 4326    | Microprocessors and Microcontrollers Lab|
-| -    | Electrical Measurement, Instrumentation and Sensors Lab, Fundamental of Electrical Engineering Lab, Electrical Drives and Instrumentation Laboratory, Electronic Devices and Circuit Sessional|
+| -           | Life Skill for Success|
+| -           | Electrical Measurement, Instrumentation and Sensors Lab, Fundamental of Electrical Engineering Lab, Electrical Drives and Instrumentation Laboratory, Electronic Devices and Circuit Sessional|
 
 
 ---
@@ -45,8 +46,10 @@ Below is a list of course contents and materials I have developed. Access these 
 
 ## 4. Student Collaboration or Contact Information
 
-I encourage students to reach out if they have questions or would like to collaborate on projects related to these courses. Here is my contact information for academic inquiries:
+I encourage students to reach out if they have questions or would like to collaborate on projects/research. You can contact me via my email:
 
 - **Email**: [fahimhafiz@cse.uiu.ac.bd](mailto:fahimhafiz@cse.uiu.ac.bd)
+
+I also request my advising students to email for course registration issues.
 
 ---
