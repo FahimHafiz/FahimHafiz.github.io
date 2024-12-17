@@ -3,7 +3,7 @@ layout: post
 title: "Paper on Rapid Kit Test results prediction from smartphone is arXived!"
 date: 2024-11-27 00:32:13
 excerpt: "Paper on Rapid Kit Test results prediction from smartphone is arXived!"
-permalink: https://arxiv.org/abs/2411.18007
+permalink: https://doi.org/10.48550/arXiv.2411.18007
 ---
 
 ## AI-Driven Smartphone Solution for Digitizing Rapid Diagnostic Test Kits and Enhancing Accessibility for the Visually Impaired
