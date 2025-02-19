@@ -1,9 +1,16 @@
-markdown
+---
+layout: post
+title: "Received crests for my lead role in the CSE Fest 2025 from Vice Chancellor, United International University(UIU)!"
+date: 2025-02-18 00:32:13
+excerpt: "Received crests for my lead role in the CSE Fest 2025 from Vice Chancellor, United International University(UIU)!"
+---
 ## UIU CSE Fest 2025: A Grand Celebration of Technology and Innovation
 
 The Computer Science and Engineering (CSE) department of United International University (UIU) recently organized a spectacular technology festival, the UIU CSE Fest 2025.  This two-day event saw enthusiastic participation from students across the country, showcasing their technological skills and innovative ideas.  Nearly fifteen hundred students took part in various competitions, making the event truly impressive.
 
-![UIU CSE Fest Snippets](image1.jpg "A collage showcasing various moments from the UIU CSE Fest.")
+<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_5.jpeg?raw=true" alt="various moments from the UIU CSE Fest." width="900">
+<br>
+<figcaption style="text-align: center;">various moments from the UIU CSE Fest.</figcaption>
 
 ### My Role: Treasurer and Robotics Segment Coordinator
 
@@ -14,6 +21,11 @@ I played two significant roles in this large-scale event – Treasurer and Robot
 Organizing such a large event taught me a great deal. My skills in time management, teamwork, financial planning, and handling unexpected situations were significantly enhanced.  Furthermore, I had the opportunity to interact with students from all over the country, which enriched my knowledge and experience.
 
 ![Receiving the Crest](image2.jpg "Receiving the crest from the VC and guests at the closing ceremony.")
+
+<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_5.jpeg?raw=true" alt="Receiving the crest from the Vice Chancellor of UIU and guests at the closing ceremony." width="900">
+<br>
+<figcaption style="text-align: center;">Receiving the crest from the Vice Chancellor of UIU and guests at the closing ceremony.</figcaption>
+
 
 ### Recognition
 
@@ -30,14 +42,17 @@ The fest featured exciting competitions like Line Following Robot, Robo Soccer, 
 *   The Blockchain Olympiad saw Yet Another One from Dhaka University win the gold medal.
 *   DU Primordials from Dhaka University were crowned champions in the UIU Inter-University Programming Contest.
 
-![Other Fest Moments](image3.jpg "A glimpse of other exciting moments from the UIU CSE Fest.")
+<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_5.jpeg?raw=true" alt="A glimpse of other exciting moments from the UIU CSE Fest." width="900">
+<br>
+<figcaption style="text-align: center;">A glimpse of other exciting moments from the UIU CSE Fest.</figcaption>
+
 
 The UIU CSE Fest 2025 was a truly successful event, pushing the boundaries of students' technological knowledge and innovative thinking.
 
 Learn more about the UIU CSE Fest:
 
-*   [CSE Fest Website](website_link_here)
-*   [CSE Fest Facebook Page](facebook_page_link_here)
+*   [CSE Fest Website](https://csefest.uiu.ac.bd/)
+*   [CSE Fest Facebook Page](https://www.facebook.com/profile.php?id=61569420809397)
 
 
 *Important Notes:*
