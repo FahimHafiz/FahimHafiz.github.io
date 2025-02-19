@@ -20,8 +20,6 @@ I played two significant roles in this large-scale event – Treasurer and Robot
 
 Organizing such a large event taught me a great deal. My skills in time management, teamwork, financial planning, and handling unexpected situations were significantly enhanced.  Furthermore, I had the opportunity to interact with students from all over the country, which enriched my knowledge and experience.
 
-![Receiving the Crest](image2.jpg "Receiving the crest from the VC and guests at the closing ceremony.")
-
 <img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_5.jpeg?raw=true" alt="Receiving the crest from the Vice Chancellor of UIU and guests at the closing ceremony." width="900">
 <br>
 <figcaption style="text-align: center;">Receiving the crest from the Vice Chancellor of UIU and guests at the closing ceremony.</figcaption>
@@ -53,11 +51,3 @@ Learn more about the UIU CSE Fest:
 
 *   [CSE Fest Website](https://csefest.uiu.ac.bd/)
 *   [CSE Fest Facebook Page](https://www.facebook.com/profile.php?id=61569420809397)
-
-
-*Important Notes:*
-
-*   Replace image1.jpg, image2.jpg, and image3.jpg with the actual filenames of your images.  Make sure the image files are in the same directory as your .md file, or provide the correct path to the images.
-*   Replace website_link_here and facebook_page_link_here with the actual URLs of the CSE Fest website and Facebook page.
-*   This format is Markdown.  When you display this in a website that supports Markdown rendering, the images will be displayed along with the text.  If your website does not support markdown, it will display the raw text and the image path. You'll need to use HTML to display images in that case.
-*
