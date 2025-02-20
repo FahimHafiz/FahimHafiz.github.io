@@ -8,7 +8,7 @@ excerpt: "Received crests for my lead role in the CSE Fest 2025 from Vice Chance
 
 The Computer Science and Engineering (CSE) department of United International University (UIU) recently organized a spectacular technology festival, the UIU CSE Fest 2025.  This two-day event saw enthusiastic participation from students across the country, showcasing their technological skills and innovative ideas.  Nearly fifteen hundred students took part in various competitions, making the event truly impressive.
 
-<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_5.jpeg?raw=true" alt="Some moments from the UIU CSE Fest." width="900">
+<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/Fest25-collage1.jpg?raw=true" alt="Some moments from the UIU CSE Fest." width="900">
 <br>
 <figcaption style="text-align: center;">Some moments from the UIU CSE Fest.</figcaption>
 
@@ -20,7 +20,7 @@ I played two significant roles in this large-scale event – Treasurer and Robot
 
 Organizing such a large event taught me a great deal. My skills in time management, teamwork, financial planning, and handling unexpected situations were significantly enhanced.  Furthermore, I had the opportunity to interact with students from all over the country, which enriched my knowledge and experience.
 
-<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_5.jpeg?raw=true" alt="Receiving the crest from the Vice Chancellor of UIU and guests at the closing ceremony." width="900">
+<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/Fest25-Crest.jpg?raw=true" alt="Receiving the crest from the Vice Chancellor of UIU and guests at the closing ceremony." width="900">
 <br>
 <figcaption style="text-align: center;">Receiving the crest from the Vice Chancellor of UIU and guests at the closing ceremony.</figcaption>
 
@@ -40,7 +40,7 @@ The fest featured exciting competitions like Line Following Robot, Robo Soccer, 
 *   The Blockchain Olympiad saw Yet Another One from Dhaka University win the gold medal.
 *   DU Primordials from Dhaka University were crowned champions in the UIU Inter-University Programming Contest.
 
-<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/cseps24_5.jpeg?raw=true" alt="A glimpse of other exciting moments from the UIU CSE Fest." width="900">
+<img src="https://github.com/FahimHafiz/FahimHafiz.github.io/blob/main/assets/img/Fest25-collage2.jpg?raw=true" alt="A glimpse of other exciting moments from the UIU CSE Fest." width="900">
 <br>
 <figcaption style="text-align: center;">A glimpse of other exciting moments from the UIU CSE Fest.</figcaption>
 
