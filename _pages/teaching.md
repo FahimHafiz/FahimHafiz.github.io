@@ -8,15 +8,15 @@ nav_order: 6
 
 ## 1. Current Semester Courses, Class Schedules, and Counseling Hours
 
-### Course I am taking in this trimester (Spring-25)
+### Course I am taking in this trimester (Summer-25)
 
 | Course Code | Course Title                | 
 |-------------|-----------------------------|
 | CSE 1326    | Digital Logic Design Lab    |
 | EEE 2113    | Electrical Circuits         |
 
-- **Class Timetable**: [Link to timetable](https://drive.google.com/file/d/16yC64QHQX6l5y_njwWk0Vc7nODAFwTRc/view?usp=sharing) <!-- Replace with your actual link -->
-- **Counseling Hours**: [Link to counseling hours](https://drive.google.com/file/d/16yC64QHQX6l5y_njwWk0Vc7nODAFwTRc/view?usp=sharing) <!-- Replace with your actual link -->
+- **Class Timetable**: [Link to timetable](https://drive.google.com/file/d/1RvswbU0C77afyMSE-r31XN4pRffg2Bog/view?usp=sharing) <!-- Replace with your actual link -->
+- **Counseling Hours**: [Link to counseling hours](https://drive.google.com/file/d/1RvswbU0C77afyMSE-r31XN4pRffg2Bog/view?usp=sharing) <!-- Replace with your actual link -->
 - **UIU Profile**: [FahimHafiz-UIU](https://cse.uiu.ac.bd/faculty/hafiz-fahim/)
 
 ---
