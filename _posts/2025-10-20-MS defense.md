@@ -36,7 +36,7 @@ SOTA deep-learning-based imputation methods, the proposed method is approximatel
 
 Full Presentation:
 
-[https://drive.google.com/file/d/1bPS52Br1yaV9hDxIQxJx5qyiE8VTwx__/view?usp=sharing](Fahim's Master's presentation)
+[Fahim's Master's presentation](https://drive.google.com/file/d/1bPS52Br1yaV9hDxIQxJx5qyiE8VTwx__/view?usp=sharing)
 
 Source Code: 
 
