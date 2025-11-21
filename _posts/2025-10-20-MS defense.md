@@ -34,7 +34,7 @@ putationally efficient compared to other SOTA methods. For example, compared to 
 SOTA deep-learning-based imputation methods, the proposed method is approximately
 33 times faster and requires, on average, 1500 MB less memory during imputation. 
 
-Full Presentation:
+Full Presentation Link:
 
 [Fahim's Master's presentation](https://drive.google.com/file/d/1bPS52Br1yaV9hDxIQxJx5qyiE8VTwx__/view?usp=sharing)
 
