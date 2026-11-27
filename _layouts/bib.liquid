@@ -68,7 +68,7 @@
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
 
-      {% if page.layout == 'about' %}
+      {% if page.layout == 'about' or page.permalink == '/publications/' %}
         {% assign author_array_limit = author_array_size %}
       {% endif %}
 
@@ -81,7 +81,7 @@
             {% assign author_is_self = true %}
           {% endif %}
         {%- endif -%}
-        {% if page.layout == 'about' and author_last_name == 'Hafiz' %}
+        {% if author_last_name == 'Hafiz' %}
           {% if author.first == 'F' or author.first == 'F.' %}
             {% assign author_is_self = true %}
           {% endif %}
@@ -102,14 +102,7 @@
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <em>
-            {%- if page.layout == 'about' -%}
-              Fahim Hafiz
-            {%- else -%}
-              {{- author.first }}
-              {{ author_last_html -}}
-            {%- endif -%}
-          </em>
+          <em style="text-decoration: none; border-bottom: 1px solid;">Fahim Hafiz</em>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{ coauthor_url }}">
