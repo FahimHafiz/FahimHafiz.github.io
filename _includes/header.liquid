@@ -1,6 +1,13 @@
-<header>
+<style>
+body { padding-top: 0 !important; }
+#navbar .container { flex-wrap: wrap; }
+#navbar .navbar-collapse { flex-basis: 100% !important; }
+#navbar .navbar-nav { flex-wrap: wrap !important; margin-left: 0 !important; }
+#navbar .nav-link { padding: .35rem .65rem; }
+</style>
+<header style="position: sticky; top: 0; z-index: 1030;">
   <!-- Nav Bar -->
-  <nav id="navbar" class="navbar navbar-light navbar-expand-lg {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
+  <nav id="navbar" class="navbar navbar-light navbar-expand sticky-top" role="navigation">
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
