@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Interested in AI & Hardware. 
+description: Interested in AI & Robotics. 
 
 profile:
   align: right
@@ -30,10 +30,10 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<strong>Interested in AI & Hardware / PhD Student, Pennsylvania State University, University Park, USA</strong>
+<strong>Interested in AI & Robotics | PhD Student, Pennsylvania State University, University Park, USA</strong>
 
 
-I am a PhD student at Pennsylvania State University, University Park, USA, working on neuromorphic computing and robotics. My research interests are AI & Hardware.
+I am a PhD student at Pennsylvania State University, University Park, USA, working on neuromorphic computing and robotics. My research interests are AI & Robotics.
 
 Previously, I worked as an Assistant Professor in the <a href="https://cse.uiu.ac.bd">Department of CSE, United International University, Bangladesh</a>, where I am currently on study leave to pursue my PhD.
 
