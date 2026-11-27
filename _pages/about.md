@@ -41,6 +41,11 @@ I earned my BSc in EEE from <a href="https://www.buet.ac.bd/web/#/">Bangladesh U
 In my leisure time, i love to play table tennis and binge watch tv series!
 
 
+## Recent publications
+
+- **October 13, 2026:** Our paper, [A probabilistic circuit with phase change memory nanodevices & pass transistor logic selectors](https://www.sciencedirect.com/science/article/pii/S2773064626000125), is published in *Memories - Materials, Devices, Circuits and Systems*. [Implementation and analysis code](https://github.com/FahimHafiz/ML_Attack).
+- **September 15, 2026:** Our paper, [FishNetBot: An IoT and Deep Learning-Based Automated Fish Sorting Robot](https://www.sciencedirect.com/science/article/pii/S259000562600559X), is published in *Array*.
+
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
