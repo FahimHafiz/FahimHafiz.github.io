@@ -112,8 +112,8 @@ x_username: fahimhafiz3 # your X handle
 youtube_id: fahimhafiz2091 # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  To contact me, please email at fahimeee2015@gmail.com
+# Contact address is defined once in email above and reused by page templates.
+contact_note:
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -239,6 +239,8 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - WEBSITE_MAINTENANCE.md
+  - _templates/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -400,6 +402,8 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+  - WEBSITE_MAINTENANCE.md
+  - _templates/
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
