@@ -8,7 +8,7 @@ middle_name:
 last_name: Hafiz
 email: fahimhafiz@cse.uiu.ac.bd
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Interested in AI & Hardware and IoT/embedded systems. 
+  Interested in AI & Hardware. 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -325,7 +325,7 @@ jekyll-archives:
 scholar:
   last_name: [Hafiz]
   first_name: [Fahim]
-  research_interests: "AI & Hardware, IoT/embedded systems"
+  research_interests: "AI & Hardware"
 
   style: apa
   locale: en
