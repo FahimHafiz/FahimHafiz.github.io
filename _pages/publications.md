@@ -11,6 +11,8 @@ nav_order: 2
 
 For my most up-to-date publication list, please visit [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=XSFyO08AAAAJ&view_op=list_works&sortby=pubdate).
 
+You can also [view my full CV (PDF)]({{ "/assets/pdf/Curriculum_Vitae_updated2.pdf" | relative_url }}).
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
