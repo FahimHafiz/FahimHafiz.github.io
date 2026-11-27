@@ -1,0 +1,11 @@
+<div class="project-repo-grid">
+{% for project in site.data.project_repositories %}
+{% assign repository_url = project.repository | prepend: 'https://github.com/' %}
+<section class="project-repo-card">
+  <span class="project-area">{{ project.area | escape }}</span>
+  <h2>{{ project.title | escape }}</h2>
+  <p>{{ project.description | escape }}</p>
+  <a href="{{ repository_url | escape }}">View {{ project.repository | split: '/' | last | escape }} on GitHub &rarr;</a>
+</section>
+{% endfor %}
+</div>
