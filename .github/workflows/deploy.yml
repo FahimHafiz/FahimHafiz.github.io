@@ -3,7 +3,6 @@ name: Deploy site
 on:
   push:
     branches:
-      - master
       - main
     paths:
       - "assets/**"
@@ -28,9 +27,10 @@ on:
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
+      - "!WEBSITE_MAINTENANCE.md"
+      - "!_templates/**"
   pull_request:
     branches:
-      - master
       - main
     paths:
       - "assets/**"
@@ -55,13 +55,21 @@ on:
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
+      - "!WEBSITE_MAINTENANCE.md"
+      - "!_templates/**"
   workflow_dispatch:
+
+# One production publish at a time; pull requests have independent build checks.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name == 'pull_request' && github.event.pull_request.number || 'production' }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
 
 jobs:
   deploy:
+    if: github.event_name == 'pull_request' || github.ref == 'refs/heads/main'
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
@@ -93,8 +101,25 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      - name: Deploy 🚀
+      - name: Check latest revision before publishing
         if: github.event_name != 'pull_request'
+        id: latest
+        env:
+          EXPECTED_SHA: ${{ github.sha }}
+        run: |
+          latest_sha=$(git ls-remote origin refs/heads/main | cut -f1)
+          if [ -z "$latest_sha" ]; then
+            echo "Could not verify the latest main revision." >&2
+            exit 1
+          fi
+          if [ "$latest_sha" = "$EXPECTED_SHA" ]; then
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+            echo "Skipping an outdated revision; main has newer changes."
+          fi
+      - name: Deploy 🚀
+        if: github.event_name != 'pull_request' && steps.latest.outputs.publish == 'true'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
