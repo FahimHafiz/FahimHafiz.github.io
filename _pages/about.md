@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Interested in AI & Hardware, IoT/embedded systems. 
+description: Interested in AI & Hardware. 
 
 profile:
   align: right
@@ -30,11 +30,11 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-<!-- **Interested in AI & Hardware, IoT/embedded systems| Assistant Professor, CSE** -->
-<strong>Interested in AI & Hardware, IoT/embedded systems | Assistant Professor, CSE</strong>
+<!-- **Interested in AI & Hardware| Assistant Professor, CSE** -->
+<strong>Interested in AI & Hardware | Assistant Professor, CSE</strong>
 
 
-I am currently working as an Assistant Professor at the <a href="https://cse.uiu.ac.bd">Department of CSE, United International University, Bangladesh</a>. My research interests are AI & Hardware, IoT/embedded systems.
+I am currently working as an Assistant Professor at the <a href="https://cse.uiu.ac.bd">Department of CSE, United International University, Bangladesh</a>. My research interests are AI & Hardware.
 
 I earned my BSc in EEE from <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering and Technology (BUET)</a> in 2021. Recently, I completed my MSc under the supervision of <a href="https://scholar.google.com/citations?user=2DhrWFgAAAAJ">Dr. Swakkhar Shatabda</a> and <a href="https://scholar.google.com/citations?user=31mWMiEAAAAJ">Dr. Riasat Azim</a>. Additionally, I have been working as an RA for more than three years at the <a href="https://www.northsouth.edu/">North South University (NSU)</a> under the guidance of <a href="https://scholar.google.com/citations?user=Izxn2EMAAAAJ">Dr. Nafisa Noor</a> in Large Memristor Crossbar Arrays Analysis, hardware-security, circuit design, and Image Processing.
 
