@@ -1,70 +1,66 @@
 import { highlightSearchTerm } from "./highlight-search-term.js";
 
 document.addEventListener("DOMContentLoaded", function () {
-  // actual bibsearch logic
-  const filterItems = (searchTerm) => {
-    document.querySelectorAll(".bibliography, .unloaded").forEach((element) => element.classList.remove("unloaded"));
-
-    // highlight-search-term
-    if (CSS.highlights) {
-      const nonMatchingElements = highlightSearchTerm({ search: searchTerm, selector: ".bibliography > li" });
-      if (nonMatchingElements == null) {
-        return;
+  const search = document.getElementById("bibsearch");
+  if (!search) return;
+  const yearSelect = document.getElementById("publication-year");
+  const status = document.getElementById("publication-filter-status");
+  const headings = [...document.querySelectorAll("h2.bibliography")];
+  const records = [];
+  headings.forEach((heading) => {
+    const year = heading.textContent.trim();
+    let sibling = heading.nextElementSibling;
+    while (sibling && sibling.tagName !== "H2") {
+      if (sibling.matches("ol.bibliography")) {
+        sibling.querySelectorAll(":scope > li").forEach((item) => {
+          records.push({ item, year, text: item.textContent.toLowerCase() });
+        });
       }
-      nonMatchingElements.forEach((element) => {
-        element.classList.add("unloaded");
-      });
-    } else {
-      // Simply add unloaded class to all non-matching items if Browser does not support CSS highlights
-      document.querySelectorAll(".bibliography > li").forEach((element, index) => {
-        const text = element.innerText.toLowerCase();
-        if (text.indexOf(searchTerm) == -1) {
-          element.classList.add("unloaded");
-        }
-      });
+      sibling = sibling.nextElementSibling;
     }
-
-    document.querySelectorAll("h2.bibliography").forEach(function (element) {
-      let iterator = element.nextElementSibling; // get next sibling element after h2, which can be h3 or ol
-      let hideFirstGroupingElement = true;
-      // iterate until next group element (h2), which is already selected by the querySelectorAll(-).forEach(-)
-      while (iterator && iterator.tagName !== "H2") {
-        if (iterator.tagName === "OL") {
-          const ol = iterator;
-          const unloadedSiblings = ol.querySelectorAll(":scope > li.unloaded");
-          const totalSiblings = ol.querySelectorAll(":scope > li");
-
-          if (unloadedSiblings.length === totalSiblings.length) {
-            ol.previousElementSibling.classList.add("unloaded"); // Add the '.unloaded' class to the previous grouping element (e.g. year)
-            ol.classList.add("unloaded"); // Add the '.unloaded' class to the OL itself
-          } else {
-            hideFirstGroupingElement = false; // there is at least some visible entry, don't hide the first grouping element
-          }
-        }
-        iterator = iterator.nextElementSibling;
-      }
-      // Add unloaded class to first grouping element (e.g. year) if no item left in this group
-      if (hideFirstGroupingElement) {
-        element.classList.add("unloaded");
-      }
-    });
-  };
-
-  const updateInputField = () => {
-    const hashValue = decodeURIComponent(window.location.hash.substring(1)); // Remove the '#' character
-    document.getElementById("bibsearch").value = hashValue;
-    filterItems(hashValue);
-  };
-
-  // Sensitive search. Only start searching if there's been no input for 300 ms
-  let timeoutId;
-  document.getElementById("bibsearch").addEventListener("input", function () {
-    clearTimeout(timeoutId); // Clear the previous timeout
-    const searchTerm = this.value.toLowerCase();
-    timeoutId = setTimeout(filterItems(searchTerm), 300);
   });
-
-  window.addEventListener("hashchange", updateInputField); // Update the filter when the hash changes
-
-  updateInputField(); // Update filter when page loads
+  if (yearSelect) {
+    [...new Set(records.map((record) => record.year))].sort().reverse().forEach((year) => {
+      yearSelect.add(new Option(year, year));
+    });
+  }
+  const filterItems = () => {
+    const term = search.value.trim().toLowerCase();
+    const year = yearSelect ? yearSelect.value : "";
+    if (CSS.highlights) highlightSearchTerm({ search: term, selector: ".bibliography > li" });
+    let visible = 0;
+    records.forEach((record) => {
+      const matches = (!year || record.year === year) && (!term || record.text.includes(term));
+      record.item.classList.toggle("unloaded", !matches);
+      if (matches) visible++;
+    });
+    headings.forEach((heading) => {
+      let sibling = heading.nextElementSibling;
+      let hasVisible = false;
+      while (sibling && sibling.tagName !== "H2") {
+        if (sibling.matches("ol.bibliography")) {
+          const populated = [...sibling.children].some((item) => !item.classList.contains("unloaded"));
+          sibling.classList.toggle("unloaded", !populated);
+          if (sibling.previousElementSibling.tagName === "H3") sibling.previousElementSibling.classList.toggle("unloaded", !populated);
+          hasVisible = hasVisible || populated;
+        }
+        sibling = sibling.nextElementSibling;
+      }
+      heading.classList.toggle("unloaded", !hasVisible);
+    });
+    if (status) status.textContent = visible ? `Showing ${visible} of ${records.length} publications.` : "No publications match these filters.";
+  };
+  let timer;
+  search.addEventListener("input", () => {
+    clearTimeout(timer);
+    timer = setTimeout(filterItems, 150);
+  });
+  if (yearSelect) yearSelect.addEventListener("change", filterItems);
+  const updateFromHash = () => {
+    try { search.value = decodeURIComponent(window.location.hash.slice(1)); }
+    catch { search.value = ""; }
+    filterItems();
+  };
+  window.addEventListener("hashchange", updateFromHash);
+  updateFromHash();
 });
