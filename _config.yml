@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Fahim
 middle_name: 
 last_name: Hafiz
-email: fahimhafiz@cse.uiu.ac.bd
+email: fahimeee2015@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Interested in AI & Hardware. 
+  Interested in AI & Robotics. 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -113,7 +113,7 @@ youtube_id: fahimhafiz2091 # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  To contact me, please email at fahimhafiz@cse.uiu.ac.bd
+  To contact me, please email at fahimeee2015@gmail.com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Fahim's blog # blog_name will be displayed in your blog page
+blog_name: Recent News # blog_name will be displayed in your blog page
 # blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -325,7 +325,7 @@ jekyll-archives:
 scholar:
   last_name: [Hafiz]
   first_name: [Fahim]
-  research_interests: "AI & Hardware"
+  research_interests: "AI & Robotics"
 
   style: apa
   locale: en
