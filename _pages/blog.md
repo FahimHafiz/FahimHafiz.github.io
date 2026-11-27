@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: Announcements
 published: true
 nav: true
 nav_order: 1
