@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-For my most up-to-date publication list, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=XSFyO08AAAAJ).
+For my most up-to-date publication list, please visit [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=XSFyO08AAAAJ&view_op=list_works&sortby=pubdate).
 
 <!-- Bibsearch Feature -->
 
