@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
   if (yearSelect) yearSelect.addEventListener("change", filterItems);
   const updateFromHash = () => {
     try { search.value = decodeURIComponent(window.location.hash.slice(1)); }
-    catch { search.value = ""; }
+    catch (error) { search.value = ""; }
     filterItems();
   };
   window.addEventListener("hashchange", updateFromHash);
