@@ -51,7 +51,7 @@ Below is a list of course contents and materials I have developed. Access these 
 
 I encourage students to reach out if they have questions or would like to collaborate on projects/research. You can contact me via my email:
 
-- **Email**: [fahimhafiz@cse.uiu.ac.bd](mailto:fahimhafiz@cse.uiu.ac.bd)
+- **Email**: [{{ site.email }}](mailto:{{ site.email }})
 
 I also request my advising students to email for course registration issues.
 
