@@ -9,9 +9,19 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+For my most up-to-date publication list, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=XSFyO08AAAAJ).
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
+
+<div class="publication-year-filter" style="margin: 0.75rem 0 1.5rem;">
+  <label for="publication-year">Publication year</label>
+  <select id="publication-year" class="form-control" style="max-width: 14rem;">
+    <option value="">All years</option>
+  </select>
+  <p id="publication-filter-status" role="status" aria-live="polite" style="margin-top: 0.5rem;"></p>
+</div>
 
 <div class="publications">
 
