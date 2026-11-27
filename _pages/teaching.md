@@ -1,10 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: Academic Teaching
 nav: true
 nav_order: 6
 ---
+
+I love teaching and have around five years of teaching experience. I am currently on study leave to pursue my PhD and am not teaching any courses or classes. The course information and materials below are retained as a record of my previous teaching.
+
 
 ## 1. Current Semester Courses, Class Schedules, and Counseling Hours
 
